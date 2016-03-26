@@ -12,10 +12,14 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-
+    var storyboard = UIStoryboard(name: "Main", bundle: nil)
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
+        let vc = storyboard.instantiateViewControllerWithIdentifier("NavigationController") as! UINavigationController
+        window?.rootViewController = vc
+        UINavigationBar.appearance().titleTextAttributes = [NSForegroundColorAttributeName : UIColor.grayColor()]
+        UINavigationBar.appearance().tintColor = UIColor.grayColor()
         return true
     }
 

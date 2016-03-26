@@ -15,7 +15,6 @@
 		0059FC191C31076D006155A9 /* TipSmartTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0059FC181C31076D006155A9 /* TipSmartTests.swift */; };
 		0059FC241C31076D006155A9 /* TipSmartUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0059FC231C31076D006155A9 /* TipSmartUITests.swift */; };
 		0059FC321C325119006155A9 /* SettingsButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 0059FC311C325119006155A9 /* SettingsButton.png */; };
-		0059FC341C33AC1F006155A9 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0059FC331C33AC1F006155A9 /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +49,6 @@
 		0059FC231C31076D006155A9 /* TipSmartUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipSmartUITests.swift; sourceTree = "<group>"; };
 		0059FC251C31076D006155A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0059FC311C325119006155A9 /* SettingsButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SettingsButton.png; sourceTree = "<group>"; };
-		0059FC331C33AC1F006155A9 /* SettingsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,7 +101,6 @@
 			children = (
 				0059FC031C31076D006155A9 /* AppDelegate.swift */,
 				0059FC051C31076D006155A9 /* ViewController.swift */,
-				0059FC331C33AC1F006155A9 /* SettingsView.swift */,
 				0059FC071C31076D006155A9 /* Main.storyboard */,
 				0059FC0A1C31076D006155A9 /* Assets.xcassets */,
 				0059FC311C325119006155A9 /* SettingsButton.png */,
@@ -266,7 +263,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0059FC341C33AC1F006155A9 /* SettingsView.swift in Sources */,
 				0059FC061C31076D006155A9 /* ViewController.swift in Sources */,
 				0059FC041C31076D006155A9 /* AppDelegate.swift in Sources */,
 			);
