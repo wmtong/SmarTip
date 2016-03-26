@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= http://i.imgur.com/Gy1uI2L.gifv' />
+<img src= http://i.imgur.com/Gy1uI2L.gif' />
 
 GIF created with LiceCap.
 
