@@ -1,10 +1,10 @@
-# Pre-work - *TipSmart*
+*SmarTip*
 
-**TipSmart** is a tip calculator application for iOS.
+**SmarTip** is a tip calculator application for iOS.
 
 Submitted by: **William Tong**
 
-Time spent: **8** hours spent in total
+Time spent: **12** hours spent in total
 
 ## User Stories
 
@@ -13,26 +13,23 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 * [X] Settings page to change the default tip percentage.
-* [ ] UI animations
+* [X] UI animations
 * [X] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
+* [X] Using locale-specific currency and currency thousands separators.
 * [X] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
 - [X] Retains formatting on multiple device sizes
+- [X] User can split bills up to four people 
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src= http://i.imgur.com/qSBOZKq.gif' />
+<img src= http://i.imgur.com/Gy1uI2L.gifv' />
 
-GIF created with GifGrabber.
-
-## Notes
-
-Encountered challenges with formatting, so decided to use autolayout.
+GIF created with LiceCap.
 
 ## License
 
