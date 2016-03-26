@@ -1,4 +1,4 @@
-#Pre-work *SmarTip*
+#*SmarTip*
 
 **SmarTip** is a tip calculator application for iOS.
 
